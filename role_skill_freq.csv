@@ -1,0 +1,433 @@
+job_clean,skills,count,importance
+Angular,communication,2,0.06666666666666667
+Angular,excel,2,0.06666666666666667
+Angular,java,6,0.2
+Angular,javascript,6,0.2
+Angular,management,2,0.06666666666666667
+Angular,node,6,0.2
+Angular,python,2,0.06666666666666667
+Angular,react,2,0.06666666666666667
+Angular,sql,2,0.06666666666666667
+Associate Technical Architect,aws,5,0.3333333333333333
+Associate Technical Architect,communication,5,0.3333333333333333
+Associate Technical Architect,tableau,5,0.3333333333333333
+Automated Testing Team Lead,aws,8,0.11764705882352941
+Automated Testing Team Lead,azure,4,0.058823529411764705
+Automated Testing Team Lead,java,8,0.11764705882352941
+Automated Testing Team Lead,javascript,8,0.11764705882352941
+Automated Testing Team Lead,management,4,0.058823529411764705
+Automated Testing Team Lead,node,8,0.11764705882352941
+Automated Testing Team Lead,python,4,0.058823529411764705
+Automated Testing Team Lead,react,8,0.11764705882352941
+Automated Testing Team Lead,snowflake,4,0.058823529411764705
+Automated Testing Team Lead,sql,12,0.17647058823529413
+Business Analyst,aws,1,0.003134796238244514
+Business Analyst,azure,2,0.006269592476489028
+Business Analyst,communication,75,0.23510971786833856
+Business Analyst,excel,81,0.25391849529780564
+Business Analyst,java,3,0.009404388714733543
+Business Analyst,javascript,3,0.009404388714733543
+Business Analyst,management,77,0.2413793103448276
+Business Analyst,nlp,2,0.006269592476489028
+Business Analyst,power bi,5,0.01567398119122257
+Business Analyst,python,4,0.012539184952978056
+Business Analyst,recruitment,5,0.01567398119122257
+Business Analyst,salesforce,1,0.003134796238244514
+Business Analyst,sap,12,0.03761755485893417
+Business Analyst,sql,37,0.11598746081504702
+Business Analyst,tableau,11,0.034482758620689655
+Business Analyst Population Health Management,communication,5,0.3333333333333333
+Business Analyst Population Health Management,excel,5,0.3333333333333333
+Business Analyst Population Health Management,management,5,0.3333333333333333
+Business Analyst T5006329,communication,6,0.5
+Business Analyst T5006329,management,6,0.5
+Business Development Associate,communication,5,0.5
+Business Development Associate,excel,3,0.3
+Business Development Associate,management,2,0.2
+Business Development Executive,communication,19,0.35185185185185186
+Business Development Executive,excel,18,0.3333333333333333
+Business Development Executive,machine learning,4,0.07407407407407407
+Business Development Executive,management,11,0.2037037037037037
+Business Development Executive,recruitment,2,0.037037037037037035
+Business Development Manager,aws,1,0.02040816326530612
+Business Development Manager,communication,22,0.4489795918367347
+Business Development Manager,excel,10,0.20408163265306123
+Business Development Manager,machine learning,3,0.061224489795918366
+Business Development Manager,management,9,0.1836734693877551
+Business Development Manager,recruitment,3,0.061224489795918366
+Business Development Manager,sap,1,0.02040816326530612
+Business Development Specialist,communication,4,0.5
+Business Development Specialist,excel,3,0.375
+Business Development Specialist,management,1,0.125
+Business System Analyst,aws,4,0.13793103448275862
+Business System Analyst,communication,7,0.2413793103448276
+Business System Analyst,excel,7,0.2413793103448276
+Business System Analyst,management,3,0.10344827586206896
+Business System Analyst,sql,4,0.13793103448275862
+Business System Analyst,tableau,4,0.13793103448275862
+Business Systems Analyst  Supply Chain And Operations,communication,5,0.5
+Business Systems Analyst  Supply Chain And Operations,excel,5,0.5
+Cofounder,communication,2,0.09523809523809523
+Cofounder,excel,3,0.14285714285714285
+Cofounder,machine learning,4,0.19047619047619047
+Cofounder,management,3,0.14285714285714285
+Cofounder,python,4,0.19047619047619047
+Cofounder,react,3,0.14285714285714285
+Cofounder,spark,2,0.09523809523809523
+Copywriter,communication,3,1.0
+Customer Service Representative,aws,2,0.13333333333333333
+Customer Service Representative,communication,6,0.4
+Customer Service Representative,excel,5,0.3333333333333333
+Customer Service Representative,sap,2,0.13333333333333333
+Data Analyst,excel,146,0.26788990825688075
+Data Analyst,power bi,75,0.13761467889908258
+Data Analyst,python,102,0.1871559633027523
+Data Analyst,sql,143,0.26238532110091745
+Data Analyst,tableau,79,0.14495412844036698
+Data Architect,aws,8,0.1095890410958904
+Data Architect,azure,6,0.0821917808219178
+Data Architect,communication,3,0.0410958904109589
+Data Architect,docker,1,0.0136986301369863
+Data Architect,excel,2,0.0273972602739726
+Data Architect,gcp,5,0.0684931506849315
+Data Architect,hadoop,6,0.0821917808219178
+Data Architect,java,1,0.0136986301369863
+Data Architect,kubernetes,3,0.0410958904109589
+Data Architect,machine learning,1,0.0136986301369863
+Data Architect,management,10,0.136986301369863
+Data Architect,power bi,1,0.0136986301369863
+Data Architect,pyspark,2,0.0273972602739726
+Data Architect,python,4,0.0547945205479452
+Data Architect,recruitment,1,0.0136986301369863
+Data Architect,sap,1,0.0136986301369863
+Data Architect,snowflake,2,0.0273972602739726
+Data Architect,spark,6,0.0821917808219178
+Data Architect,sql,7,0.0958904109589041
+Data Architect,tableau,3,0.0410958904109589
+Data Engineer,hadoop,135,0.09868421052631579
+Data Engineer,pyspark,138,0.10087719298245613
+Data Engineer,python,373,0.27266081871345027
+Data Engineer,spark,292,0.2134502923976608
+Data Engineer,sql,430,0.31432748538011696
+Data Science Intern,excel,3,0.2
+Data Science Intern,machine learning,3,0.2
+Data Science Intern,management,1,0.06666666666666667
+Data Science Intern,python,4,0.26666666666666666
+Data Science Intern,sql,3,0.2
+Data Science Intern,tableau,1,0.06666666666666667
+Data Scientist,deep learning,39,0.15789473684210525
+Data Scientist,machine learning,85,0.3441295546558704
+Data Scientist,nlp,20,0.08097165991902834
+Data Scientist,python,103,0.41700404858299595
+Development Team Lead,aws,11,0.25
+Development Team Lead,azure,7,0.1590909090909091
+Development Team Lead,java,4,0.09090909090909091
+Development Team Lead,management,4,0.09090909090909091
+Development Team Lead,react,11,0.25
+Development Team Lead,sql,7,0.1590909090909091
+Digital Marketing Executive,communication,5,0.23809523809523808
+Digital Marketing Executive,excel,8,0.38095238095238093
+Digital Marketing Executive,java,1,0.047619047619047616
+Digital Marketing Executive,javascript,1,0.047619047619047616
+Digital Marketing Executive,machine learning,2,0.09523809523809523
+Digital Marketing Executive,management,3,0.14285714285714285
+Digital Marketing Executive,sap,1,0.047619047619047616
+Digital Marketing Specialist,communication,2,0.2222222222222222
+Digital Marketing Specialist,excel,5,0.5555555555555556
+Digital Marketing Specialist,management,2,0.2222222222222222
+HR,communication,20,0.40816326530612246
+HR,management,20,0.40816326530612246
+HR,recruitment,9,0.1836734693877551
+Iam Business Analyst,excel,6,0.5
+Iam Business Analyst,management,6,0.5
+Implementationconversion Analyst Skills Omni Script,excel,5,0.5
+Implementationconversion Analyst Skills Omni Script,recruitment,5,0.5
+Inside Sales Executive,communication,4,1.0
+Intern,communication,2,0.2222222222222222
+Intern,excel,2,0.2222222222222222
+Intern,machine learning,1,0.1111111111111111
+Intern,management,1,0.1111111111111111
+Intern,power bi,1,0.1111111111111111
+Intern,python,1,0.1111111111111111
+Intern,tableau,1,0.1111111111111111
+It Business Analyst,communication,5,0.7142857142857143
+It Business Analyst,management,2,0.2857142857142857
+Java Development Team Lead,aws,18,0.20454545454545456
+Java Development Team Lead,communication,10,0.11363636363636363
+Java Development Team Lead,docker,3,0.03409090909090909
+Java Development Team Lead,excel,4,0.045454545454545456
+Java Development Team Lead,java,18,0.20454545454545456
+Java Development Team Lead,javascript,1,0.011363636363636364
+Java Development Team Lead,management,6,0.06818181818181818
+Java Development Team Lead,python,2,0.022727272727272728
+Java Development Team Lead,react,18,0.20454545454545456
+Java Development Team Lead,spark,4,0.045454545454545456
+Java Development Team Lead,sql,4,0.045454545454545456
+Java Team Lead,aws,55,0.09892086330935251
+Java Team Lead,communication,54,0.09712230215827339
+Java Team Lead,docker,54,0.09712230215827339
+Java Team Lead,excel,54,0.09712230215827339
+Java Team Lead,gcp,33,0.05935251798561151
+Java Team Lead,java,55,0.09892086330935251
+Java Team Lead,javascript,33,0.05935251798561151
+Java Team Lead,kubernetes,34,0.06115107913669065
+Java Team Lead,machine learning,33,0.05935251798561151
+Java Team Lead,management,21,0.03776978417266187
+Java Team Lead,python,21,0.03776978417266187
+Java Team Lead,react,55,0.09892086330935251
+Java Team Lead,spark,21,0.03776978417266187
+Java Team Lead,sql,33,0.05935251798561151
+Java Technical Lead,aws,2,0.125
+Java Technical Lead,communication,1,0.0625
+Java Technical Lead,excel,1,0.0625
+Java Technical Lead,java,5,0.3125
+Java Technical Lead,javascript,3,0.1875
+Java Technical Lead,sql,4,0.25
+Lead Automation Tester,aws,7,0.018229166666666668
+Lead Automation Tester,azure,14,0.036458333333333336
+Lead Automation Tester,communication,50,0.13020833333333334
+Lead Automation Tester,docker,22,0.057291666666666664
+Lead Automation Tester,excel,18,0.046875
+Lead Automation Tester,gcp,6,0.015625
+Lead Automation Tester,java,80,0.20833333333333334
+Lead Automation Tester,javascript,80,0.20833333333333334
+Lead Automation Tester,kubernetes,10,0.026041666666666668
+Lead Automation Tester,management,12,0.03125
+Lead Automation Tester,node,27,0.0703125
+Lead Automation Tester,python,28,0.07291666666666667
+Lead Automation Tester,react,16,0.041666666666666664
+Lead Automation Tester,sql,14,0.036458333333333336
+Lead Automation Tester Javascript,communication,6,0.3333333333333333
+Lead Automation Tester Javascript,excel,6,0.3333333333333333
+Lead Automation Tester Javascript,management,6,0.3333333333333333
+Lead Automation Tester Js,communication,7,0.21875
+Lead Automation Tester Js,excel,4,0.125
+Lead Automation Tester Js,java,7,0.21875
+Lead Automation Tester Js,javascript,7,0.21875
+Lead Automation Tester Js,management,7,0.21875
+Lead Business Analyst,communication,4,0.2222222222222222
+Lead Business Analyst,excel,5,0.2777777777777778
+Lead Business Analyst,gcp,1,0.05555555555555555
+Lead Business Analyst,management,8,0.4444444444444444
+Lead Consultant,aws,12,0.3333333333333333
+Lead Consultant,java,12,0.3333333333333333
+Lead Consultant,react,12,0.3333333333333333
+ML Engineer,machine learning,36,0.5294117647058824
+ML Engineer,python,32,0.47058823529411764
+Manager,aws,6,0.1111111111111111
+Manager,azure,4,0.07407407407407407
+Manager,communication,5,0.09259259259259259
+Manager,deep learning,2,0.037037037037037035
+Manager,excel,5,0.09259259259259259
+Manager,gcp,2,0.037037037037037035
+Manager,machine learning,4,0.07407407407407407
+Manager,management,6,0.1111111111111111
+Manager,power bi,1,0.018518518518518517
+Manager,python,5,0.09259259259259259
+Manager,snowflake,2,0.037037037037037035
+Manager,spark,1,0.018518518518518517
+Manager,sql,5,0.09259259259259259
+Manager,tableau,6,0.1111111111111111
+Net Development Team Lead,aws,11,0.13580246913580246
+Net Development Team Lead,azure,11,0.13580246913580246
+Net Development Team Lead,communication,6,0.07407407407407407
+Net Development Team Lead,docker,8,0.09876543209876543
+Net Development Team Lead,java,6,0.07407407407407407
+Net Development Team Lead,javascript,4,0.04938271604938271
+Net Development Team Lead,kubernetes,7,0.08641975308641975
+Net Development Team Lead,management,5,0.06172839506172839
+Net Development Team Lead,node,2,0.024691358024691357
+Net Development Team Lead,react,11,0.13580246913580246
+Net Development Team Lead,sql,10,0.12345679012345678
+Net Team Lead,aws,5,0.14285714285714285
+Net Team Lead,azure,5,0.14285714285714285
+Net Team Lead,communication,5,0.14285714285714285
+Net Team Lead,docker,5,0.14285714285714285
+Net Team Lead,kubernetes,5,0.14285714285714285
+Net Team Lead,react,5,0.14285714285714285
+Net Team Lead,sql,5,0.14285714285714285
+Node Js,aws,3,0.08333333333333333
+Node Js,communication,4,0.1111111111111111
+Node Js,excel,4,0.1111111111111111
+Node Js,java,6,0.16666666666666666
+Node Js,javascript,6,0.16666666666666666
+Node Js,management,1,0.027777777777777776
+Node Js,node,7,0.19444444444444445
+Node Js,snowflake,2,0.05555555555555555
+Node Js,sql,3,0.08333333333333333
+Postgre Sql,aws,2,0.14285714285714285
+Postgre Sql,gcp,4,0.2857142857142857
+Postgre Sql,python,2,0.14285714285714285
+Postgre Sql,sql,6,0.42857142857142855
+Power Bi Analyst,excel,6,0.5
+Power Bi Analyst,power bi,6,0.5
+Product Manager,communication,3,0.2
+Product Manager,excel,4,0.26666666666666666
+Product Manager,machine learning,1,0.06666666666666667
+Product Manager,management,6,0.4
+Product Manager,recruitment,1,0.06666666666666667
+Project Manager,communication,4,0.2857142857142857
+Project Manager,excel,4,0.2857142857142857
+Project Manager,management,6,0.42857142857142855
+Quality Analyst,communication,7,0.17073170731707318
+Quality Analyst,excel,7,0.17073170731707318
+Quality Analyst,java,4,0.0975609756097561
+Quality Analyst,management,10,0.24390243902439024
+Quality Analyst,sap,6,0.14634146341463414
+Quality Analyst,sql,7,0.17073170731707318
+Quality Assurance Analyst Ii T5005883,excel,5,0.3333333333333333
+Quality Assurance Analyst Ii T5005883,management,5,0.3333333333333333
+Quality Assurance Analyst Ii T5005883,sql,5,0.3333333333333333
+Relationship Manager,communication,1,0.2
+Relationship Manager,management,3,0.6
+Relationship Manager,sap,1,0.2
+Research Intern,communication,1,1.0
+SAP,sap,81,1.0
+SAP ABAP,sap,5,1.0
+SAP FICO,sap,6,1.0
+Sales Executive,communication,7,0.4375
+Sales Executive,deep learning,1,0.0625
+Sales Executive,excel,6,0.375
+Sales Executive,machine learning,1,0.0625
+Sales Executive,recruitment,1,0.0625
+Sales Manager,communication,1,0.25
+Sales Manager,excel,1,0.25
+Sales Manager,management,2,0.5
+Sales Specialist,communication,4,0.5714285714285714
+Sales Specialist,excel,2,0.2857142857142857
+Sales Specialist,management,1,0.14285714285714285
+Salesforce,aws,6,0.011428571428571429
+Salesforce,azure,5,0.009523809523809525
+Salesforce,communication,67,0.12761904761904763
+Salesforce,excel,61,0.11619047619047619
+Salesforce,gcp,1,0.0019047619047619048
+Salesforce,java,63,0.12
+Salesforce,javascript,54,0.10285714285714286
+Salesforce,machine learning,5,0.009523809523809525
+Salesforce,management,50,0.09523809523809523
+Salesforce,node,6,0.011428571428571429
+Salesforce,power bi,4,0.007619047619047619
+Salesforce,python,3,0.005714285714285714
+Salesforce,react,4,0.007619047619047619
+Salesforce,recruitment,1,0.0019047619047619048
+Salesforce,salesforce,155,0.29523809523809524
+Salesforce,sap,3,0.005714285714285714
+Salesforce,sql,36,0.06857142857142857
+Salesforce,tableau,1,0.0019047619047619048
+Scrum Master,communication,6,0.5
+Scrum Master,management,6,0.5
+Search Engine Optimization Analyst,communication,8,0.34782608695652173
+Search Engine Optimization Analyst,excel,6,0.2608695652173913
+Search Engine Optimization Analyst,java,2,0.08695652173913043
+Search Engine Optimization Analyst,javascript,1,0.043478260869565216
+Search Engine Optimization Analyst,management,5,0.21739130434782608
+Search Engine Optimization Analyst,python,1,0.043478260869565216
+Senior Actuarial Analyst,communication,5,0.3333333333333333
+Senior Actuarial Analyst,excel,5,0.3333333333333333
+Senior Actuarial Analyst,management,3,0.2
+Senior Actuarial Analyst,sql,2,0.13333333333333333
+Senior Analyst,azure,3,0.10344827586206896
+Senior Analyst,communication,5,0.1724137931034483
+Senior Analyst,excel,5,0.1724137931034483
+Senior Analyst,java,3,0.10344827586206896
+Senior Analyst,machine learning,3,0.10344827586206896
+Senior Analyst,management,4,0.13793103448275862
+Senior Analyst,python,3,0.10344827586206896
+Senior Analyst,sql,3,0.10344827586206896
+Senior Automation Tester,aws,35,0.07592190889370933
+Senior Automation Tester,azure,19,0.04121475054229935
+Senior Automation Tester,communication,57,0.12364425162689804
+Senior Automation Tester,docker,31,0.06724511930585683
+Senior Automation Tester,excel,11,0.02386117136659436
+Senior Automation Tester,gcp,4,0.008676789587852495
+Senior Automation Tester,java,63,0.13665943600867678
+Senior Automation Tester,javascript,57,0.12364425162689804
+Senior Automation Tester,kubernetes,7,0.015184381778741865
+Senior Automation Tester,management,24,0.052060737527114966
+Senior Automation Tester,node,36,0.07809110629067245
+Senior Automation Tester,python,60,0.1301518438177874
+Senior Automation Tester,react,24,0.052060737527114966
+Senior Automation Tester,sap,8,0.01735357917570499
+Senior Automation Tester,sql,25,0.05422993492407809
+Senior Business Analyst,aws,3,0.023076923076923078
+Senior Business Analyst,communication,28,0.2153846153846154
+Senior Business Analyst,excel,22,0.16923076923076924
+Senior Business Analyst,gcp,1,0.007692307692307693
+Senior Business Analyst,java,3,0.023076923076923078
+Senior Business Analyst,management,26,0.2
+Senior Business Analyst,power bi,5,0.038461538461538464
+Senior Business Analyst,python,7,0.05384615384615385
+Senior Business Analyst,react,3,0.023076923076923078
+Senior Business Analyst,recruitment,1,0.007692307692307693
+Senior Business Analyst,salesforce,6,0.046153846153846156
+Senior Business Analyst,sap,2,0.015384615384615385
+Senior Business Analyst,snowflake,2,0.015384615384615385
+Senior Business Analyst,sql,15,0.11538461538461539
+Senior Business Analyst,tableau,6,0.046153846153846156
+Senior Consultant,aws,3,0.2
+Senior Consultant,communication,2,0.13333333333333333
+Senior Consultant,excel,1,0.06666666666666667
+Senior Consultant,java,4,0.26666666666666666
+Senior Consultant,management,1,0.06666666666666667
+Senior Consultant,react,3,0.2
+Senior Consultant,sql,1,0.06666666666666667
+Senior Research Analyst,communication,4,0.4
+Senior Research Analyst,excel,3,0.3
+Senior Research Analyst,management,3,0.3
+Senior Scrum Master,azure,6,0.16666666666666666
+Senior Scrum Master,communication,6,0.16666666666666666
+Senior Scrum Master,excel,6,0.16666666666666666
+Senior Scrum Master,java,6,0.16666666666666666
+Senior Scrum Master,management,9,0.25
+Senior Scrum Master,sap,3,0.08333333333333333
+Software Developer,java,1013,0.32730210016155087
+Software Developer,javascript,675,0.21809369951534732
+Software Developer,node,206,0.06655896607431341
+Software Developer,python,543,0.1754442649434572
+Software Developer,react,658,0.21260096930533118
+Software Engineer,docker,195,0.14233576642335766
+Software Engineer,java,699,0.5102189781021897
+Software Engineer,kubernetes,159,0.11605839416058394
+Software Engineer,python,317,0.23138686131386862
+Team Lead Automation Tester,java,6,1.0
+Team Lead Scrum Master,communication,5,0.3333333333333333
+Team Lead Scrum Master,excel,5,0.3333333333333333
+Team Lead Scrum Master,management,5,0.3333333333333333
+Technical Business Analyst,communication,11,0.28205128205128205
+Technical Business Analyst,excel,7,0.1794871794871795
+Technical Business Analyst,java,2,0.05128205128205128
+Technical Business Analyst,management,2,0.05128205128205128
+Technical Business Analyst,node,2,0.05128205128205128
+Technical Business Analyst,python,2,0.05128205128205128
+Technical Business Analyst,react,5,0.1282051282051282
+Technical Business Analyst,sql,5,0.1282051282051282
+Technical Business Analyst,tableau,3,0.07692307692307693
+Technical Lead,azure,1,0.024390243902439025
+Technical Lead,communication,2,0.04878048780487805
+Technical Lead,docker,2,0.04878048780487805
+Technical Lead,excel,5,0.12195121951219512
+Technical Lead,gcp,1,0.024390243902439025
+Technical Lead,java,6,0.14634146341463414
+Technical Lead,javascript,4,0.0975609756097561
+Technical Lead,kubernetes,2,0.04878048780487805
+Technical Lead,management,4,0.0975609756097561
+Technical Lead,nlp,1,0.024390243902439025
+Technical Lead,node,3,0.07317073170731707
+Technical Lead,python,1,0.024390243902439025
+Technical Lead,react,2,0.04878048780487805
+Technical Lead,sql,7,0.17073170731707318
+Technician Team Lead,aws,5,0.16666666666666666
+Technician Team Lead,docker,5,0.16666666666666666
+Technician Team Lead,java,5,0.16666666666666666
+Technician Team Lead,python,5,0.16666666666666666
+Technician Team Lead,react,5,0.16666666666666666
+Technician Team Lead,spark,5,0.16666666666666666
+Vuejs,java,3,0.3333333333333333
+Vuejs,javascript,3,0.3333333333333333
+Vuejs,react,3,0.3333333333333333
+Web Development Intern,excel,1,0.09090909090909091
+Web Development Intern,java,3,0.2727272727272727
+Web Development Intern,javascript,3,0.2727272727272727
+Web Development Intern,node,2,0.18181818181818182
+Web Development Intern,python,1,0.09090909090909091
+Web Development Intern,sql,1,0.09090909090909091
